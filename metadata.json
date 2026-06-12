@@ -1,0 +1,6 @@
+{
+  "name": "UltraBot Hosting",
+  "description": "UltraBot Hosting 1TB RAM Dedicated Server Cluster panel console and bot deployment simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
